@@ -1,0 +1,17 @@
+人工标注,机器识别,score,0
+front,front,no,640
+front,front,yes,7334
+front,no_direction,no,1
+front,rear,no,116
+front,rear,yes,9
+no_direction,front,no,51
+no_direction,front,yes,12
+no_direction,no_direction,no,8
+no_direction,no_direction,yes,4
+no_direction,rear,no,23
+no_direction,rear,yes,14
+rear,front,no,72
+rear,front,yes,20
+rear,no_direction,no,1
+rear,rear,no,538
+rear,rear,yes,9805
